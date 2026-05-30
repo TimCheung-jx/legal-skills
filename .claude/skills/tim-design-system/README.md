@@ -1,4 +1,4 @@
-# Esther's Design Skill
+# Tim's Design Skill
 
 一套给 AI 看的个人品牌设计系统。告诉 AI 用什么颜色、字体、布局、组件，以及什么绝对不能用。
 
